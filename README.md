@@ -133,8 +133,11 @@ This will display the bar chart of ratings in R.
 
 ---
 
-## **Notes**
+## **Important Notes**
 
+* **You must unzip** the entire `Module 4 Assignment` folder before running the codes.
+* Do **not** run the codes directly from within the zipped folder. The script will not be able to access files.
+* Unzip (extract all files) to a known location like `Desktop or Document` before running the script.
 * Ensure `Netflix_shows_movies_cleaned.csv` is in the **same folder** as the `.py` and `.R` scripts before running them.
 * If running the R script from another location, adjust the `setwd()` path accordingly.
 
